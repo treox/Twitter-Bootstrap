@@ -1,6 +1,30 @@
 
 nav {
-    padding:10px;
+    padding: 15px;
+    text-align: center;
+}
+
+div {
+    display:inline-flex;
+}
+
+section, footer {
+    margin: 15px;
+}
+
+li {
+    display:inline-flex;
+    width: 160px;
+}
+
+.hov:hover {
+    background-color: rgb(177, 177, 204);
+    border-radius: 5px;
+}
+
+.pos {
+    position: relative;
+    right: 405px;
 }
 
 #section-p3 {
