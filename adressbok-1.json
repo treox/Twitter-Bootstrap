@@ -1,0 +1,31 @@
+[
+    {
+        "firstname": "Hannibal",
+        "lastname": "Smith",
+        "email": "hannibal@sneakysneakers.se",
+        "phone": "07012345678",
+        "age": 68,
+        "img": "team1.png" 
+    },{
+        "firstname": "B.A",
+        "lastname": "Baracus",
+        "email": "ba@sneakysneakers.se",
+        "phone": "0705678912",
+        "age": 38,
+        "img": "team2.png" 
+    },{
+        "firstname": "Mad",
+        "lastname": "Murdoch",
+        "email": "mad@sneakysneakers.se",
+        "phone": "0709812675849",
+        "age": 42,
+        "img": "team3.png" 
+    },{
+        "firstname": "Face",
+        "lastname": "Peck",
+        "email": "face@sneakysneakers.se",
+        "phone": "070918273645",
+        "age": 39,
+        "img": "team4.png" 
+    }
+]
